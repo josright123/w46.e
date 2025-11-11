@@ -1,0 +1,13 @@
+.\objects\sockets.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\api\sockets.c
+.\objects\sockets.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h
+.\objects\sockets.o: ..\inc\lwipopts.h
+.\objects\sockets.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/debug.h
+.\objects\sockets.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/arch.h
+.\objects\sockets.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\sockets.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\sockets.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\sockets.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sockets.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\sockets.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\sockets.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\sockets.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h

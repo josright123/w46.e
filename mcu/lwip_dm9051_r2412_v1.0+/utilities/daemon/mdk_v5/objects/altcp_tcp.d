@@ -1,0 +1,13 @@
+.\objects\altcp_tcp.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\core\altcp_tcp.c
+.\objects\altcp_tcp.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h
+.\objects\altcp_tcp.o: ..\inc\lwipopts.h
+.\objects\altcp_tcp.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/debug.h
+.\objects\altcp_tcp.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/arch.h
+.\objects\altcp_tcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\altcp_tcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\altcp_tcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\altcp_tcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\altcp_tcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\altcp_tcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\altcp_tcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\altcp_tcp.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h

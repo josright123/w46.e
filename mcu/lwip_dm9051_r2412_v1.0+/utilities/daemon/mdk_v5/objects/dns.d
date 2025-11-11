@@ -1,0 +1,13 @@
+.\objects\dns.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\core\dns.c
+.\objects\dns.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h
+.\objects\dns.o: ..\inc\lwipopts.h
+.\objects\dns.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/debug.h
+.\objects\dns.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/arch.h
+.\objects\dns.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\dns.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\dns.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\dns.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dns.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\dns.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\dns.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\dns.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h

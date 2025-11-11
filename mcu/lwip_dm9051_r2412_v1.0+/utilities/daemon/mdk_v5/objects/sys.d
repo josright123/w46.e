@@ -1,0 +1,14 @@
+.\objects\sys.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\core\sys.c
+.\objects\sys.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h
+.\objects\sys.o: ..\inc\lwipopts.h
+.\objects\sys.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/debug.h
+.\objects\sys.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/arch.h
+.\objects\sys.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\sys.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\sys.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\sys.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sys.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\sys.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\sys.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\sys.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h
+.\objects\sys.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/sys.h

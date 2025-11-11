@@ -1,0 +1,13 @@
+.\objects\tcpip.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\api\tcpip.c
+.\objects\tcpip.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h
+.\objects\tcpip.o: ..\inc\lwipopts.h
+.\objects\tcpip.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/debug.h
+.\objects\tcpip.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/arch.h
+.\objects\tcpip.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\tcpip.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\tcpip.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\tcpip.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tcpip.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\tcpip.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\tcpip.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\tcpip.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h

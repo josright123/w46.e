@@ -1,0 +1,13 @@
+.\objects\if_api.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\api\if_api.c
+.\objects\if_api.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h
+.\objects\if_api.o: ..\inc\lwipopts.h
+.\objects\if_api.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/debug.h
+.\objects\if_api.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/arch.h
+.\objects\if_api.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\if_api.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\if_api.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\if_api.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\if_api.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\if_api.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\if_api.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\if_api.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h

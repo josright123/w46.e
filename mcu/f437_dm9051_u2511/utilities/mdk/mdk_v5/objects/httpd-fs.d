@@ -1,0 +1,17 @@
+.\objects\httpd-fs.o: ..\..\apps\webserver\httpd-fs.c
+.\objects\httpd-fs.o: ..\..\apps\webserver\httpd.h
+.\objects\httpd-fs.o: ..\..\uIP\psock.h
+.\objects\httpd-fs.o: ..\..\uIP\uipopt.h
+.\objects\httpd-fs.o: ..\src\uip-conf.h
+.\objects\httpd-fs.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\httpd-fs.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\httpd-fs.o: ..\src\app_call.h
+.\objects\httpd-fs.o: ..\..\uIP\pt.h
+.\objects\httpd-fs.o: ..\..\uIP\lc.h
+.\objects\httpd-fs.o: ..\..\uIP\lc-switch.h
+.\objects\httpd-fs.o: ..\..\apps\webserver\httpd-fs.h
+.\objects\httpd-fs.o: ..\..\apps\webserver\httpd-fsdata.h
+.\objects\httpd-fs.o: ..\..\uIP\uip.h
+.\objects\httpd-fs.o: ..\..\apps\dhcpc\dhcpc.h
+.\objects\httpd-fs.o: ..\..\apps\webserver\httpd-fsdata.c
+.\objects\httpd-fs.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stddef.h

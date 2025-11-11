@@ -1,0 +1,14 @@
+.\objects\netdb.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\api\netdb.c
+.\objects\netdb.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/netdb.h
+.\objects\netdb.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h
+.\objects\netdb.o: ..\inc\lwipopts.h
+.\objects\netdb.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/debug.h
+.\objects\netdb.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/arch.h
+.\objects\netdb.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\netdb.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\netdb.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\netdb.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\netdb.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\netdb.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\netdb.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\netdb.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h

@@ -1,0 +1,14 @@
+.\objects\ethif.o: ..\..\dm9051_u2510_if\ethif.c
+.\objects\ethif.o: ..\..\uIP\uip.h
+.\objects\ethif.o: ..\..\uIP\uipopt.h
+.\objects\ethif.o: ..\src\uip-conf.h
+.\objects\ethif.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\ethif.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ethif.o: ..\src\app_call.h
+.\objects\ethif.o: ..\..\apps\dhcpc\dhcpc.h
+.\objects\ethif.o: ..\..\apps\webserver\httpd.h
+.\objects\ethif.o: ..\..\uIP\psock.h
+.\objects\ethif.o: ..\..\uIP\pt.h
+.\objects\ethif.o: ..\..\uIP\lc.h
+.\objects\ethif.o: ..\..\uIP\lc-switch.h
+.\objects\ethif.o: ..\..\apps\webserver\httpd-fs.h

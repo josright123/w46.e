@@ -1,0 +1,9 @@
+.\objects\dm9051_data.o: ..\..\dm9051_u2510_if\dm9051_data.c
+.\objects\dm9051_data.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\dm9051_data.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\dm9051_data.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\string.h
+.\objects\dm9051_data.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\dm9051_data.o: ..\..\apps\dhcpc\../../dm9051_u2510_if/platform_info.h
+.\objects\dm9051_data.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dm9051_data.o: ..\..\dm9051_u2510_r_9_1\core/dm9051.h
+.\objects\dm9051_data.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdbool.h

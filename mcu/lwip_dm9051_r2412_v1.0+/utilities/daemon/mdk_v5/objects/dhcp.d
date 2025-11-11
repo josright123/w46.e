@@ -1,0 +1,13 @@
+.\objects\dhcp.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\core\ipv4\dhcp.c
+.\objects\dhcp.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h
+.\objects\dhcp.o: ..\inc\lwipopts.h
+.\objects\dhcp.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/debug.h
+.\objects\dhcp.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/arch.h
+.\objects\dhcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\dhcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\dhcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\dhcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dhcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\dhcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\dhcp.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\dhcp.o: ..\..\..\middlewares\3rd_party\lwip_2.1.2\src\include\lwip/opt.h

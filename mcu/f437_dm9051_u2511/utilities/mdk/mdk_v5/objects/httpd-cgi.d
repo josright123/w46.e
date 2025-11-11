@@ -1,0 +1,17 @@
+.\objects\httpd-cgi.o: ..\..\apps\webserver\httpd-cgi.c
+.\objects\httpd-cgi.o: ..\..\uIP\uip.h
+.\objects\httpd-cgi.o: ..\..\uIP\uipopt.h
+.\objects\httpd-cgi.o: ..\src\uip-conf.h
+.\objects\httpd-cgi.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\httpd-cgi.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\httpd-cgi.o: ..\src\app_call.h
+.\objects\httpd-cgi.o: ..\..\apps\dhcpc\dhcpc.h
+.\objects\httpd-cgi.o: ..\..\apps\webserver\httpd.h
+.\objects\httpd-cgi.o: ..\..\uIP\psock.h
+.\objects\httpd-cgi.o: ..\..\uIP\pt.h
+.\objects\httpd-cgi.o: ..\..\uIP\lc.h
+.\objects\httpd-cgi.o: ..\..\uIP\lc-switch.h
+.\objects\httpd-cgi.o: ..\..\apps\webserver\httpd-fs.h
+.\objects\httpd-cgi.o: ..\..\apps\webserver\httpd-cgi.h
+.\objects\httpd-cgi.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\httpd-cgi.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\string.h

@@ -1,0 +1,9 @@
+.\objects\dm9051.o: ..\..\dm9051_u2510_r_12_1\core\dm9051.c
+.\objects\dm9051.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dm9051.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\dm9051.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\dm9051.o: ..\..\dm9051_u2510_r_12_1\core\dm9051_constants.h
+.\objects\dm9051.o: ..\..\dm9051_u2510_r_12_1\core\dm9051.h
+.\objects\dm9051.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\dm9051.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\string.h
+.\objects\dm9051.o: C:\Keil_v540\ARM\ARMCC\Bin\..\include\stdbool.h
